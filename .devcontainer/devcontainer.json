@@ -38,7 +38,9 @@
                 "extensions.ignoreRecommendations": true,
                 "editor.tabCompletion": "on",
                 "editor.showDeprecated": true,
-                "editor.rulers": [],
+                "editor.rulers": [
+                    80
+                ],
                 "editor.guides.bracketPairs": "active",
                 "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
                 "workbench.tree.expandMode": "singleClick",
